@@ -14,3 +14,9 @@
   - https://www.youtube.com/watch?v=EXNchVewMF0x
   - https://www.youtube.com/watch?v=gftIqECzOs4
   - https://www.youtube.com/watch?v=OwaH71q-5iA
+
+- Path Disclosure
+  - https://ysamm.com/?p=158
+  - https://philippeharewood.com/path-disclosure-in-facebook-copyright-dashboard/
+  - https://philippeharewood.com/path-disclosure-in-facebook-graphql-api/
+  - https://philippeharewood.com/path-disclosure-in-instagram-ads-graphql/
