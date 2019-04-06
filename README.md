@@ -1,4 +1,5 @@
 - Page Admin Disclosure
+  - https://ysamm.com/?p=60
   - https://www.dropbox.com/s/w5xcn60oiblxeqs/Disclose_admins_page.pdf
   - https://khalil-shreateh.com/khalil.shtml/23-khalil/290-facebook-exploit-jan-2015-page-admin-disclosure.html 
   - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e
