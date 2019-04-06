@@ -1,1 +1,16 @@
-# facebook-bug-bounties
+- Page Admin Disclosure
+  - https://www.dropbox.com/s/w5xcn60oiblxeqs/Disclose_admins_page.pdf
+  - https://khalil-shreateh.com/khalil.shtml/23-khalil/290-facebook-exploit-jan-2015-page-admin-disclosure.html 
+  - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e
+  - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520
+  - https://medium.com/bugbountywriteup/disclosure-of-facebook-page-admin-due-to-insecure-tagging-behavior-24ff09de5c29
+  - https://philippeharewood.com/disclose-facebook-page-admins-in-3d/
+  - https://philippeharewood.com/disclose-page-admins-via-facebook-camera-effects/
+  - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/
+  - https://philippeharewood.com/disclose-page-admins-via-job-source-recruiter-requests/
+  - https://philippeharewood.com/disclose-page-admins-via-our-story-feature/
+  - https://philippeharewood.com/disclose-page-admins-via-watch-parties-in-a-facebook-group/
+  - https://philippeharewood.com/disclose-users-with-roles-on-facebook-pages/
+  - https://www.youtube.com/watch?v=EXNchVewMF0x
+  - https://www.youtube.com/watch?v=gftIqECzOs4
+  - https://www.youtube.com/watch?v=OwaH71q-5iA
