@@ -31,6 +31,6 @@
   - https://philippeharewood.com/path-disclosure-in-instagram-ads-graphql/
   
 - User Deanonymization
-  - https://bugreader.com/jieryn@de-anonymizing-page-admin-that-created-the-event-78
+  - https://bugreader.com/jieryn@de-anonymizing-facebook-employee-who-created-crisis-fundraiser-67
   - https://philippeharewood.com/facebook-employees-leaked-from-disaster-map/
   - https://wongmjane.com/post/reveal-fb-employee-behind-funfact/
