@@ -1,12 +1,16 @@
+- Group Members Disclosure
+  - https://bugreader.com/onehackzero@determine-members-in-a-closed-facebook-group-83
+  - https://philippeharewood.com/determine-members-in-a-closed-facebook-group/
+  - https://philippeharewood.com/view-former-members-of-a-facebook-group/
+  
 - Page Admin Disclosure
-  - https://ysamm.com/?p=60
   - https://bugreader.com/jieryn@de-anonymizing-page-admin-that-created-the-event-78
   - https://bugreader.com/semicolonlb@disclose-page-admins-for-any-facebook-page-52
-  - https://www.dropbox.com/s/w5xcn60oiblxeqs/Disclose_admins_page.pdf
   - https://khalil-shreateh.com/khalil.shtml/23-khalil/290-facebook-exploit-jan-2015-page-admin-disclosure.html 
   - https://medium.com/@avinash_/disclosure-of-pending-roles-for-any-facebook-page-ab6e4e219f8e
   - https://medium.com/@tnirmalz/facebook-bugbounty-disclosing-page-members-1178595cc520
   - https://medium.com/bugbountywriteup/disclosure-of-facebook-page-admin-due-to-insecure-tagging-behavior-24ff09de5c29
+  - https://medium.com/bugbountywriteup/page-admin-disclosure-facebook-bug-bounty-2019-ee9920e768eb
   - https://philippeharewood.com/disclose-facebook-page-admins-in-3d/
   - https://philippeharewood.com/disclose-page-admins-via-facebook-camera-effects/
   - https://philippeharewood.com/disclose-page-admins-via-gaming-dashboard-bans/
@@ -14,12 +18,19 @@
   - https://philippeharewood.com/disclose-page-admins-via-our-story-feature/
   - https://philippeharewood.com/disclose-page-admins-via-watch-parties-in-a-facebook-group/
   - https://philippeharewood.com/disclose-users-with-roles-on-facebook-pages/
+  - https://www.dropbox.com/s/w5xcn60oiblxeqs/Disclose_admins_page.pdf
   - https://www.youtube.com/watch?v=EXNchVewMF0x
   - https://www.youtube.com/watch?v=gftIqECzOs4
   - https://www.youtube.com/watch?v=OwaH71q-5iA
+  - https://ysamm.com/?p=60
 
 - Path Disclosure
   - https://ysamm.com/?p=158
   - https://philippeharewood.com/path-disclosure-in-facebook-copyright-dashboard/
   - https://philippeharewood.com/path-disclosure-in-facebook-graphql-api/
   - https://philippeharewood.com/path-disclosure-in-instagram-ads-graphql/
+  
+- User Deanonymization
+  - https://bugreader.com/jieryn@de-anonymizing-page-admin-that-created-the-event-78
+  - https://philippeharewood.com/facebook-employees-leaked-from-disaster-map/
+  - https://wongmjane.com/post/reveal-fb-employee-behind-funfact/
