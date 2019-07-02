@@ -18,6 +18,7 @@
   - https://philippeharewood.com/disclose-page-admins-via-our-story-feature/
   - https://philippeharewood.com/disclose-page-admins-via-watch-parties-in-a-facebook-group/
   - https://philippeharewood.com/disclose-users-with-roles-on-facebook-pages/
+  - https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/
   - https://www.dropbox.com/s/w5xcn60oiblxeqs/Disclose_admins_page.pdf
   - https://www.youtube.com/watch?v=EXNchVewMF0x
   - https://www.youtube.com/watch?v=gftIqECzOs4
